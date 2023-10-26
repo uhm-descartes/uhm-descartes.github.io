@@ -21,12 +21,10 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/community.jpeg
-    alt: "Community"
-    title: "Community Impact"
-    excerpt: "To solve pressing societal issues, we need to better understand and analyze human and social behavior backed by state-of-the-art data science. Our interdisciplinary team of faculty members and students will work together with community partners toward practical, evidence-based solutions.”
-
- "
+  - image_path: /assets/images/apply.jpeg
+    alt: "Apply"
+    title: "Apply"
+    excerpt: "We offer over a dozen fellowships per year to fully fund students applying to graduate programs in Business, Economics, Engineering, Computer Science, and other disciplines. Fill out an application to get started now!"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
