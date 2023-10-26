@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Research"
     url: /posts/
-  - title: "Categories"
+  - title: "Education"
     url: /categories/
-  - title: "Tags"
+  - title: "Community"
     url: /tags/
-  - title: "About"
+  - title: "About Us"
+    url: /about/
+  - title: "News"
     url: /about/
