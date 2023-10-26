@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/apply.jpeg
     alt: "Apply"
     title: "Apply"
-    excerpt: "We offer over a dozen fellowships per year to fully fund students applying to graduate programs in Business, Economics, Engineering, Computer Science, and other disciplines. Fill out an application to get started now!"
+    excerpt: "We offer over a dozen fellowships per year to fully fund students applying to graduate programs in Business, Economics, Engineering, Computer Science, Health Care, and other disciplines. Fill out an application to get started now!"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
