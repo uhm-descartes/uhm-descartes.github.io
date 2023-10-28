@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
 excerpt: >
-  An NSF-sponsored project to develop an innovative graduate program that brings together engineering, computer science, social science, business and medicine to harness the power of data science. 
+  This NSF-sponsored project develops an innovative graduate program that brings together engineering, computer science, social science, business and medicine to harness the power of data science. 
 feature_row:
   - image_path: /assets/images/research.jpeg
     alt: "Research"
