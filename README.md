@@ -16,5 +16,34 @@ The simplest way to edit this site is by using <https://gitpod.io>:
 
 <img src="README-screenshots/gitpod-1.png"/>
 
+Click the "login" link, then "Continue with GitHub", then login to GitHub. You will eventually get to the "Workspaces" page:
+
+<img src="README-screenshots/gitpod-2.png"/>
+
+Click the "New workspace" button, then paste the following into the text field:
+
+```
+https://github.com/uhm-descartes/uhm-descartes.github.io
+```
+
+Select the item "github.com/uhm-descartes/uhm-descartes.github.io" that will appear, so the page looks like this:
+
+<img src="README-screenshots/gitpod-3.png"/>
+
+Now press the "Continue" button to build the workspace.
+
+You will see a VS Code Editor UI appear in the browser window, and a Terminal window pop up and begin loading libraries (in green text). Wait until the libraries are all loaded and a command prompt (in blue) appears in the Terminal window:
+
+<img src="README-screenshots/gitpod-4.png"/>
+
+Now type `bundle exec jekyll serve` into the terminal window.  After a few seconds, a dialog box will pop up. You can choose "Make public":
+
+
+
+
+
+
+
+
 
 
