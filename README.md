@@ -4,13 +4,13 @@ This site is build using the [Minimal Mistakes](https://mmistakes.github.io/mini
 
 ## How to edit this site
 
-### Obtain write permission to the repo
+### 1. Obtain write permission to the repo
 
 First, you must have write access to <https://github.com/uhm-descartes/uhm-descartes.github.io>. 
 
 A quick way to see whether you have write access is to check whether or not there is a "pencil icon" in the upper right corner of the [README.md](https://github.com/uhm-descartes/uhm-descartes.github.io/blob/master/README.md) file. If you don't see a pencil, contact Prasad or Philip with your github username and one of them will provide you with permissions.
 
-### Set up your gitpod.io workspace
+### 2. Set up your gitpod.io workspace
 
 The simplest way to edit this site is by using <https://gitpod.io>:
 
@@ -37,6 +37,57 @@ You will see a VS Code Editor UI appear in the browser window, and a Terminal wi
 <img src="README-screenshots/gitpod-4.png"/>
 
 Now type `bundle exec jekyll serve` into the terminal window.  After a few seconds, a dialog box will pop up. You can choose "Make public":
+
+<img src="README-screenshots/gitpod-5.png"/>
+
+Once that's done, move the mouse over the "Server address" line in the terminal window and a "Follow link" window will appear:
+
+<img src="README-screenshots/gitpod-6.png"/>
+
+Click it, and the site will appear in a new browser tab:
+
+<img src="README-screenshots/gitpod-7.png"/>
+
+Installation is now complete. You can now edit and (when ready) publish the site. 
+
+### 3. Edit the site
+
+Editing the site is an iterative process of:
+
+1. Making changes to the source files for the site. 
+2. Verifying that the site builds and that your changes reflect your intent.
+
+To make changes to the source files, just edit them using the browser tab containing the VS Code Editor UI. In most cases, the files you will want to edit are in the `_pages` directory. 
+
+In many cases, you will see that after you make changes to a file (and save it using control-s), the terminal window will produce output indicating that Jekyll has noticed the changes and has rebuilt the site. 
+
+In that case, simply switching to the browser tab containing the built site and hitting the refresh button will be enough to reveal your changes. 
+
+In other cases (such as when you edit config files), you may need to restart the Jekyll server to see the changes.  In this case, select the Terminal window, then press `control-c` (to terminate), followed by `control-p` (to retrieve the previous command, which is `bundle exec jekyll serve`), then `return` (to restart Jekyll).
+
+### 4. Publish the site
+
+When you are done editing, you should commit and publish your changes. This means sending your edited source files from gitpod.io to github.com.  The github.com repo is configured to automatically build and publish the site whenever commits are made to the repo. 
+
+So, to publish the site, first notice that after editing a file, a blue dot will appear over the "Source Control" icon on the left side of the VS Code browser tab:
+
+<img src="README-screenshots/gitpod-8.png"/>
+
+Click that icon to reveal the Source Control pane:
+
+<img src="README-screenshots/gitpod-9.png"/>
+
+Enter a brief message in the top pane (such as "Fix home page"), then click the down arrow to the right of the orange "Commit" button to reveal choices. 
+
+<img src="README-screenshots/gitpod-10.png"/>
+
+Please select "Commit and Push".
+
+
+
+
+
+
 
 
 
