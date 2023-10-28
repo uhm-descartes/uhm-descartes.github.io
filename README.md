@@ -89,6 +89,10 @@ If you now go to the "Actions" tab of the GitHub repository page, you'll see tha
 
 Once there is a green arrow to the left of the "pages build and deployment" action, you should now be able to see your changes reflected in the published site at <https://uhm-descartes.github.io/>.
 
+### Determining what to do
+
+To help coordinate updates, please see the site [Project Board](https://github.com/orgs/uhm-descartes/projects/1/views/1).
+
 
 
 
