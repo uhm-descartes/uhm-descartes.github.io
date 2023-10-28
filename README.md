@@ -83,6 +83,12 @@ Enter a brief message in the top pane (such as "Fix home page"), then click the 
 
 Please select "Commit and Push".
 
+If you now go to the "Actions" tab of the GitHub repository page, you'll see that GitHub is now building the site:
+
+<img src="README-screenshots/gitpod-10.png"/>
+
+Once there is a green arrow to the left of the "pages build and deployment" action, you should now be able to see your changes reflected in the published site at <https://uhm-descartes.github.io/>.
+
 
 
 
