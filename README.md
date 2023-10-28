@@ -1,27 +1,20 @@
-# Minimal Mistakes remote theme starter
+# UHM Descartes Project page
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This site is build using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme.
 
-Contains basic configuration to get you a site with:
+## How to edit this site
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+### Obtain write permission to the repo
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+First, you must have write access to <https://github.com/uhm-descartes/uhm-descartes.github.io>. 
 
----
+A quick way to see whether you have write access is to check whether or not there is a "pencil icon" in the upper right corner of the [README.md](https://github.com/uhm-descartes/uhm-descartes.github.io/blob/master/README.md) file. If you don't see a pencil, contact Prasad or Philip with your github username and one of them will provide you with permissions.
 
-## Troubleshooting
+### Set up your gitpod.io workspace
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+The simplest way to edit this site is by using <https://gitpod.io>:
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+<img src="README-screenshots/gitpod-1.png"/>
+
+
+
