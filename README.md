@@ -81,7 +81,7 @@ Enter a brief message in the top pane (such as "Fix home page"), then click the 
 
 <img src="README-screenshots/gitpod-10.png"/>
 
-Please select "Commit and Sync". (This will both push your changes to GitHub, and update your GitPod workspace with any changes committed by someone else since you start working.)
+Please select "Commit and Sync". (This will both push your changes to GitHub, and update your GitPod workspace with any changes committed by someone else to GitHub since you start working.)
 
 If you now go to the "Actions" tab of the GitHub repository page, you'll see that GitHub is now building the site:
 
