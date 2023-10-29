@@ -1,11 +1,9 @@
 ---
 title: "Welcome to Descartes!"
-date: 2019-04-18T15:34:30-04:00
+date: 2023-10-29T00:00:00-10:00
 categories:
   - news
 tags:
-  - Jekyll
-  - update
 ---
 
 Welcome to the NSF-sponsored Descartes project. 

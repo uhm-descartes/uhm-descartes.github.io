@@ -1,6 +1,6 @@
 ---
-permalink: /people/overview/
-title: "People: Overview"
+permalink: /training/modular-curriculum/
+title: "Training: Modular Curriculum"
 ---
 
 Content goes here.

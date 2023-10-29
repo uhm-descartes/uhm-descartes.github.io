@@ -1,6 +1,6 @@
 ---
-permalink: /people/
-title: "People"
+permalink: /people/overview/
+title: "People: Overview"
 ---
 
 Content goes here.
