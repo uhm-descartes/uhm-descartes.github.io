@@ -59,6 +59,8 @@ Editing the site is an iterative process of:
 
 To make changes to the source files, just edit them using the browser tab containing the VS Code Editor UI. In most cases, the files you will want to edit are in the `_pages` directory. 
 
+To edit pages, you will want to use "Markdown".  If you don't know Markdown already, you can read the [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) reference page for details. 
+
 In many cases, you will see that after you make changes to a file (and save it using control-s), the terminal window will produce output indicating that Jekyll has noticed the changes and has rebuilt the site. 
 
 In that case, simply switching to the browser tab containing the built site and hitting the refresh button will be enough to reveal your changes. 
