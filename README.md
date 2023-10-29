@@ -81,7 +81,7 @@ Enter a brief message in the top pane (such as "Fix home page"), then click the 
 
 <img src="README-screenshots/gitpod-10.png"/>
 
-Please select "Commit and Push".
+Please select "Commit and Sync".
 
 If you now go to the "Actions" tab of the GitHub repository page, you'll see that GitHub is now building the site:
 
