@@ -11,14 +11,14 @@ feature_row:
   - image_path: /assets/images/research.jpeg
     alt: "Research"
     title: "Research"
-    excerpt: "The project will apply data science to address critical needs in power, transportation, healthcare and communications."
+    excerpt: "Descartes applies data science to address critical needs in power, transportation, healthcare and communications."
     url: "/research/overview/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/education.jpeg
     alt: "Training"
     title: "Training"
-    excerpt: "Novel mechanisms such as tailored course modules will better equip students with a broad perspective on the interplay between areas traditionally treated disparately in a STEM graduate curriculum."
+    excerpt: "Our modularized curriculum equips students with a broad perspective on the interplay between areas traditionally treated disparately in a STEM graduate curriculum."
     url: "/training/overview/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
