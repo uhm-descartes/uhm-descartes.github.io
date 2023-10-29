@@ -1,11 +1,51 @@
 main:
   - title: "Research"
-    url: /posts/
-  - title: "Education"
-    url: /categories/
+    url: /research/overview/
+  - title: "Training"
+    url: /training/overview
   - title: "Apply"
-    url: /tags/
-  - title: "About Us"
-    url: /about/
+    url: /apply/overview/
+  - title: "People"
+    url: /people/
   - title: "News"
-    url: /about/
+    url: /news/
+
+docs:
+  - title: Research
+    children:
+      - title: "Overview"
+        url: /research/overview/
+      - title: "Decarbonization"
+        url: /research/decarbonization/
+      - title: "Healthcare"
+        url: /research/healthcare/
+      - title: "Wireless systems"
+        url: /research/wireless/
+  - title: Training
+    children:
+      - title: "Overview"
+        url: /training/overview/
+      - title: "Data Science"
+        url: /training/data-science/
+      - title: "Modular Curriculum"
+        url: /training/modular-curriculum/
+  - title: Apply
+    children:
+      - title: "Overview"
+        url: /apply/overview/
+      - title: "Application Form"
+        url: "/apply/application-form/"
+      - title: "FAQ"
+        url: /apply/faq/
+  - title: People
+    children:
+      - title: "Overview"
+        url: /people/overview/
+      - title: "Leadership Team"
+        url: /people/leadership-team/
+      - title: "Students"
+        url: /people/students/
+      - title: "Advisory Board"
+        url: /people/advisory-board/
+      - title: "Community Partners"
+        url: /people/community-partners/

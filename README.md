@@ -1,6 +1,6 @@
 # UHM Descartes Project page
 
-This site is build using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme.
+If you are changing the structure of this site, you will want to consult the documentation for the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme.  If you are simply adding content, you shouldn't need to know much more than what is presented below. 
 
 ## How to edit this site
 
@@ -89,22 +89,25 @@ If you now go to the "Actions" tab of the GitHub repository page, you'll see tha
 
 Once there is a green arrow to the left of the "pages build and deployment" action, you should now be able to see your changes reflected in the published site at <https://uhm-descartes.github.io/>.
 
-### Determining what to do
+### How to help build and manage this site
+
+### NRT Project Sites
+
+First, I recommend that you review some of the existing NSF NRT project sites for ideas. Here are a few:
+
+* https://futurerivers.uw.edu/
+* https://aim-nrt.pratt.duke.edu/
+* https://nrt.asu.edu/citizen-centered-smart-cities-living/
+* https://nrt.unl.edu/
+* https://nrt.catss.umn.edu/
+* https://www.auburn.edu/cosam/climate_resilience/
+* https://umaine.edu/conservationscience/
+* https://dev.nrt.ua.edu/
+* https://sites.google.com/stonybrook.edu/quads-nrt/home
+* https://nrt.ku.edu/
+* https://sites.udel.edu/midas-nrt/
+
+
+### Project Board
 
 To help coordinate updates, please see the site [Project Board](https://github.com/orgs/uhm-descartes/projects/1/views/1).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
