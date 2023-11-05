@@ -103,7 +103,7 @@ Make sure all of the permissions are selected, then click â€œUpdate Permissionsâ
 
 Now GitPod has all of the permissions necessary to commit your changes, which we'll do in the next section.
 
-#### 4.2 Commit your changes to main
+#### 4.2 Commit your changes to master
 
 To publish the site, first notice that after editing a file, a blue dot will appear over the "Source Control" icon on the left side of the VS Code browser tab:
 
