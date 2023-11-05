@@ -9,4 +9,7 @@ Research includes dynamic electricity pricing based on supply and demand; reinfo
 
 Hawai\`i has high penetration of renewable energy and an exceptionally high share of households with rooftop solar systems in the United States. Thus Hawai\`i  and the UHM campus form a natural `living laboratory' to conduct experiments to evaluate and validate the research.  
 
-
+image_path: /assets/images/KawailoaWindSep2023.jpeg
+    alt: "Windturbineimage"
+    title: "Renewable energy integration"
+    excerpt: "Descartes applies data science to address critical needs in decarbonization."
