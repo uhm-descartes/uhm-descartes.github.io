@@ -8,7 +8,7 @@ This project integrates data science and machine learning into engineering and s
 
 Research includes dynamic electricity pricing based on supply and demand; reinforcement learning to control home appliances; federated learning at the grid edge for enhanced security and privacy; and policies to implement equitable energy transition and assist low-income households in adopting decarbonization technology, where machine learning is instrumental. 
 
-Hawai\`i has high penetration of renewable energy and an exceptionally high share of households with rooftop solar systems in the United States. Thus Hawai\`i  and the UHM campus form a natural `living laboratory' to conduct experiments to evaluate and validate the research.
+Hawai\`i has high penetration of renewable energy and an exceptionally high share of households with rooftop solar systems in the United States. Thus Hawai\`i  and the UHM campus form a natural `living laboratory' to conduct experiments to evaluate and validate the research. 
 
 feature_row:
   - image_path: /assets/images/KawailoaWindSep2023.jpeg
