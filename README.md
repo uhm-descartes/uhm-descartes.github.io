@@ -71,7 +71,41 @@ In other cases (such as when you edit config files), you may need to restart the
 
 When you are done editing, you should commit and publish your changes. This means sending your edited source files from gitpod.io to github.com.  The github.com repo is configured to automatically build and publish the site whenever commits are made to the repo. 
 
-So, to publish the site, first notice that after editing a file, a blue dot will appear over the "Source Control" icon on the left side of the VS Code browser tab:
+#### 4.1 Give GitPod permission to write to the repo
+
+If you are a first time user of GitPod, you need to give GitPod permission to commit changes to GitHub. Here's how to do it:
+
+First, open a new browser and go to <https://gitpod.io>
+
+<img src="README-screenshots/gitpod-12.png"/>
+
+Now click on the avatar associated with you at the top right of the page to pull down a menu of items:
+
+<img src="README-screenshots/gitpod-13.png"/>
+
+Select “User Settings” to go to this page:
+
+<img src="README-screenshots/gitpod-14.png"/>
+
+Select “Git Providers” to go to this page:
+
+<img src="README-screenshots/gitpod-15.png"/>
+
+Now click the three vertical dots next to “GitHub”:
+
+<img src="README-screenshots/gitpod-16.png"/>
+
+Select “Edit Permissions” to pop up the following dialog box:
+
+<img src="README-screenshots/gitpod-17.png"/>
+
+Make sure all of the permissions are selected, then click “Update Permissions”.
+
+Now GitPod has all of the permissions necessary to commit your changes, which we'll do in the next section.
+
+#### 4.2 Commit your changes to master
+
+To publish the site, first notice that after editing a file, a blue dot will appear over the "Source Control" icon on the left side of the VS Code browser tab:
 
 <img src="README-screenshots/gitpod-8.png"/>
 
