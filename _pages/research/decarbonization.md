@@ -1,7 +1,7 @@
 ---
 permalink: /research/decarbonization/
 title: "Research: Decarbonization"
----
+
 
 excerpt: >
 This project integrates data science and machine learning into engineering and social science frameworks to address challenges in creating low-carbon power systems with large shares of renewable energy sources.  
