@@ -2,6 +2,8 @@
 permalink: /research/decarbonization/
 title: "Research: Decarbonization"
 
+excerpt: >
+
 
 feature_row:
   - image_path: /assets/images/KawailoaWindSep2023.jpeg
