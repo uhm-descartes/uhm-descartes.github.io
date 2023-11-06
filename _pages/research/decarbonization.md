@@ -4,6 +4,7 @@ title: "Research: Decarbonization"
 
 
 excerpt: >
+
 This project integrates data science and machine learning into engineering and social science frameworks to address challenges in creating low-carbon power systems with large shares of renewable energy sources.  
 
 Research includes dynamic electricity pricing based on supply and demand; reinforcement learning to control home appliances; federated learning at the grid edge for enhanced security and privacy; and policies to implement equitable energy transition and assist low-income households in adopting decarbonization technology, where machine learning is instrumental. 
