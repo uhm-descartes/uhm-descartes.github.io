@@ -14,11 +14,11 @@ Hawai\`i has high penetration of renewable energy and an exceptionally high shar
 feature_row:
   - image_path: /assets/images/KawailoaWindSep2023.jpeg
     alt: "Windturbineimage"
-    title: "Renewable energy integration"
+    title: "Decarbonization pathways"
     excerpt: "Descartes applies data science to address critical needs in the pathway to decarbonization."
   - image_path: /assets/images/systemdata_ferc_square.jpg
     alt: "Systemprofile"
-    title: "Renewable energy integration"
+    title: "Efficiency and equity of renewables integration"
     excerpt: "Descartes investigates the socioecomic impacts of renewables integration."
 ---
 
