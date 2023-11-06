@@ -22,3 +22,7 @@ Project Descartes is supported by a National Research and Training award from th
 [Gurdal Arslan](https://www2.hawaii.edu/~gurdal/) is an Associate Professor of Electrical Engineering in the College of Engineering at the University of Hawaii.
 
 [Shirley Daniel](https://shidler.hawaii.edu/soa/directory/shirley-daniel) is an Emeritus Professor of Accounting in the Shidler College of Business at the University of Hawaii.
+
+[Yuanzhang Xiao](https://ee.hawaii.edu/faculty/profile?usr=99) is an Assistant Professor from Hawaii Center for Advanced Communications at University of Hawaii.
+
+[Yao Zheng](https://www2.hawaii.edu/~yaozheng/) an Assistant Professor of Electical Engineering in the College of Engineering at the University of Hawaii.
