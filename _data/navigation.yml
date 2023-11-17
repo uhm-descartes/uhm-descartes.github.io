@@ -1,4 +1,6 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "Research"
     url: /research/overview/
   - title: "Training"
@@ -11,6 +13,8 @@ main:
     url: /news/
 
 docs:
+  - title: "About"
+    url: /about/
   - title: Research
     children:
       - title: "Overview"
