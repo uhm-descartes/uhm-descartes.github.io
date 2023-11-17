@@ -129,7 +129,7 @@ Once there is a green arrow to the left of the "pages build and deployment" acti
 
 If you want to go beyond basic markdown, you will need to consult the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) documentation. Philip has done some basic customization of the defaults; you can contact him for guidance. 
 
-## NRT Project Sites
+## 6. NRT Project Sites
 
 You can find helpful examples of the content and structure of our site by looking at other NRT sites.  Here's links:
 
