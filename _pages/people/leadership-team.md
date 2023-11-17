@@ -17,6 +17,10 @@ Project Descartes is supported by a National Research and Training award from th
 
 [Philip Johnson](https://philipmjohnson.org) (Co-Principal Investigator) is a Professor of Information and Computer Sciences in the College of Natural Sciences at the University of Hawaii. 
 
+## External Evaluation
+
+[Mary Lee](https://www.linkedin.com/in/mary-lee-b2b24110/) is the Executive Director of [Pacific Policy Research Center](http://www.pprchawaii.org/). 
+
 ## Cooperating Faculty
 
 [Gurdal Arslan](https://www2.hawaii.edu/~gurdal/) is an Associate Professor of Electrical Engineering in the College of Engineering at the University of Hawaii.
@@ -28,5 +32,3 @@ Project Descartes is supported by a National Research and Training award from th
 [Yuanzhang Xiao](https://ee.hawaii.edu/faculty/profile?usr=99) is an Assistant Professor from Hawaii Center for Advanced Communications at University of Hawaii.
 
 [Yao Zheng](https://www2.hawaii.edu/~yaozheng/) an Assistant Professor of Electical Engineering in the College of Engineering at the University of Hawaii.
-
-
