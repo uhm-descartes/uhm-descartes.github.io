@@ -1,16 +1,16 @@
-# UHM Descartes Project page
+# UHM Descartes Project Site
 
-If you are changing the structure of this site, you will want to consult the documentation for the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme.  If you are simply adding content, you shouldn't need to know much more than what is presented below. 
+If you are changing the structure of this site, you will want to consult the documentation for the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll theme.  If you are simply adding content, you shouldn't need to know much more than what is presented below.
 
-## How to edit this site
+Here's how to do it.
 
-### 1. Obtain write permission to the repo
+## 1. Obtain write permission to the repo
 
 First, you must have write access to <https://github.com/uhm-descartes/uhm-descartes.github.io>. 
 
 A quick way to see whether you have write access is to check whether or not there is a "pencil icon" in the upper right corner of the [README.md](https://github.com/uhm-descartes/uhm-descartes.github.io/blob/master/README.md) file. If you don't see a pencil, contact Prasad or Philip with your github username and one of them will provide you with permissions.
 
-### 2. Set up your gitpod.io workspace
+## 2. Set up your gitpod.io workspace
 
 The simplest way to edit this site is by using <https://gitpod.io>:
 
@@ -50,7 +50,7 @@ Click it, and the site will appear in a new browser tab:
 
 Installation is now complete. You can now edit and (when ready) publish the site. 
 
-### 3. Edit the site
+## 3. Edit the site
 
 Editing the site is an iterative process of:
 
@@ -67,11 +67,11 @@ In that case, simply switching to the browser tab containing the built site and 
 
 In other cases (such as when you edit config files), you may need to restart the Jekyll server to see the changes.  In this case, select the Terminal window, then press `control-c` (to terminate), followed by `control-p` (to retrieve the previous command, which is `bundle exec jekyll serve`), then `return` (to restart Jekyll).
 
-### 4. Publish the site
+## 4. Publish the site
 
 When you are done editing, you should commit and publish your changes. This means sending your edited source files from gitpod.io to github.com.  The github.com repo is configured to automatically build and publish the site whenever commits are made to the repo. 
 
-#### 4.1 Give GitPod permission to write to the repo
+### 4.1 Give GitPod permission to write to the repo
 
 If you are a first time user of GitPod, you need to give GitPod permission to commit changes to GitHub. Here's how to do it:
 
@@ -103,7 +103,7 @@ Make sure all of the permissions are selected, then click â€œUpdate Permissionsâ
 
 Now GitPod has all of the permissions necessary to commit your changes, which we'll do in the next section.
 
-#### 4.2 Commit your changes to master
+### 4.2 Commit your changes to master
 
 To publish the site, first notice that after editing a file, a blue dot will appear over the "Source Control" icon on the left side of the VS Code browser tab:
 
@@ -121,15 +121,17 @@ Please select "Commit and Sync". (This will both push your changes to GitHub, an
 
 If you now go to the "Actions" tab of the GitHub repository page, you'll see that GitHub is now building the site:
 
-<img src="README-screenshots/gitpod-10.png"/>
+<img src="README-screenshots/gitpod-11.png"/>
 
 Once there is a green arrow to the left of the "pages build and deployment" action, you should now be able to see your changes reflected in the published site at <https://uhm-descartes.github.io/>.
 
-### How to help build and manage this site
+## 5. Beyond basic markdown
 
-### NRT Project Sites
+If you want to go beyond basic markdown, you will need to consult the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) documentation. Philip has done some basic customization of the defaults; you can contact him for guidance. 
 
-First, I recommend that you review some of the existing NSF NRT project sites for ideas. Here are a few:
+## 6. NRT Project Sites
+
+You can find helpful examples of the content and structure of our site by looking at other NRT sites.  Here's links:
 
 * https://futurerivers.uw.edu/
 * https://aim-nrt.pratt.duke.edu/
