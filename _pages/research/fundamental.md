@@ -1,4 +1,6 @@
-permalink	title
-/research/fundamental/
-Research: Fundamental Research
+---
+permalink: /research/fundamental/
+title: "Research: Fundamental Research"
+---
+
 Content goes here.
