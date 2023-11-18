@@ -121,7 +121,7 @@ Please select "Commit and Sync". (This will both push your changes to GitHub, an
 
 If you now go to the "Actions" tab of the GitHub repository page, you'll see that GitHub is now building the site:
 
-<img src="README-screenshots/gitpod-10.png"/>
+<img src="README-screenshots/gitpod-11.png"/>
 
 Once there is a green arrow to the left of the "pages build and deployment" action, you should now be able to see your changes reflected in the published site at <https://uhm-descartes.github.io/>.
 
