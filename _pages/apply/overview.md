@@ -30,4 +30,4 @@ If you are **not eligible** for funding, you are also encouraged to **contact [t
     - indicate whether you are eligible for the stipend;
     - update your undergraduate and graduate (if any) transcripts.
 - **Step 2.** Please have at least two referees to send the reference letter to uhmnrt@hawaii.edu.
-- **Step 3.** You need to enroll in a graduate program at UH Manoa to participate in our NRT program. If you are not a graduate student yet, please refer to the [Graduate Division Application website](https://manoa.hawaii.edu/graduate/how-to-apply/) for instructions on how to apply.
+- **Step 3.** You need to enroll in a graduate program at UH Manoa to participate in our NRT program. If you are not a graduate student yet, please go to the [Graduate Division Application website](https://manoa.hawaii.edu/graduate/how-to-apply/) for instructions on how to apply.
