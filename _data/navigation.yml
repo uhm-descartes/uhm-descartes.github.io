@@ -19,6 +19,8 @@ docs:
     children:
       - title: "Overview"
         url: /research/overview/
+      - title: "Fundamental research"
+        url: /research/fundamental/
       - title: "Decarbonization"
         url: /research/decarbonization/
       - title: "Healthcare"
