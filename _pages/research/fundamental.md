@@ -35,7 +35,7 @@ learning best practices.
 This fundamental research is used to juxtapose engineering and AI in
 the context of economic and social considerations in
 
-* Decarbonization, focusing on the energy and transportation sectors,
+* [Decarbonization](https://uhm-descartes.github.io/research/decarbonization/), focusing on the energy and transportation sectors,
 particularly relevant to Hawaii with its high penetration of
 renewables and associated challenges. Building on UH Manoa research,
 we take advantage of collaborations with local stakeholders and
@@ -51,7 +51,7 @@ state in clean energy integration, and we expect our work to provide
 insights on how to enhance equitable and inclusive clean energy
 transitions in the nation and beyond.
 
-* Disease detection from ECGs and epidemics modeling, leveraging
+* [Healthcare](https://uhm-descartes.github.io/research/healthcare), particularly disease detection from ECGs and epidemics modeling, leveraging
 perhaps the largest pediatric ECG dataset (collected and curated by
 one of the PIs).  Native Hawaiians and Pacific Islanders are affected
 by heart diseases at a higher rate, and the unique geography of Hawaii
@@ -60,7 +60,7 @@ from how diseases would spread on the mainland. Here again we combine
 domain knowledge and incomplete, possibly biased measurements within
 our broader framework of anomaly detection using generative approaches.
 
-* Communications, Networks and Security, a central tenet of a
+* [Communications, Networks and Security](https://uhm-descartes.github.io/research/communications), a central tenet of a
 sustainable economy in Hawaii, made essential by its geographical
 isolation. Our work focuses on creating NextG wireless systems with
 enhanced communication, novel sensing, attack resiliency and energy
