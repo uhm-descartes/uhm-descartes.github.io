@@ -1,6 +1,8 @@
 ---
-permalink: /research/fundamental/
-title: "Research: Fundamental Research"
+permalink: /research/overview/
+title: "Research: Overview"
+sidebar:
+  nav: "docs"
 ---
 
 We propose novel takes on __online and distributed learning__ with
