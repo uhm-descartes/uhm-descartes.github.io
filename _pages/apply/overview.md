@@ -5,9 +5,9 @@ title: "Apply: Overview"
 
 ## Why NRT?
 
-UHM Descartes is a multi-disciplinary National Science Foundation Research Traineeship (NRT) program at the University of Hawaii (UH) at Manoa. The NRT trainees will have great opportunities to participate an unique graduate program and conduct cross-disciplinary research. At the end of the program, the trainees will master the essential skills in **data science and artificial intelligence (AI)**, and work on **cutting-edge research projects** from a variety of disciplines (engineering, computer science, social science, business, and medicine). 
+UHM Descartes is a multi-disciplinary National Science Foundation Research Traineeship (NRT) program at the University of Hawaii (UH) at Manoa. The NRT trainees will have great opportunities to participate an unique graduate program and conduct cross-disciplinary research. The trainees can also be matched to internships at our partners. At the end of the program, the trainees will master the essential skills in **data science and artificial intelligence (AI)**, and work on **cutting-edge research projects** from a variety of disciplines (engineering, computer science, social science, business, and medicine).
 
-If eligible, the traineess may also receive a **generous stipend (~$34K per year) and tuition waiver for up to two years**.
+If eligible, the traineess may also receive a **generous stipend (~$34K per year) and have the tuition paid by the program for up to two years**.
 
 For more details of our program, please visit [the About page](../about.md).
 
@@ -15,6 +15,7 @@ For more details of our program, please visit [the About page](../about.md).
 
 Our NRT program hosts both funded and non-funded trainees. To be a trainee, you need to
 - be in good academic standings;
+- be committed to the training and education programs designed by the NRT faculty;
 - more importantly, be passionate about data science and AI!
 
 To be a **funded** trainee, you need to be a **U.S. citizen or permanent resident**, which is required by the NSF.
