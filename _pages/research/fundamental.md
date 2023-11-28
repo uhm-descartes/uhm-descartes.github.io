@@ -60,7 +60,7 @@ from how diseases would spread on the mainland. Here again we combine
 domain knowledge and incomplete, possibly biased measurements within
 our broader framework of anomaly detection using generative approaches.
 
-* [Communications, Networks and Security](https://uhm-descartes.github.io/research/communications), a central tenet of a
+* [Communications, Networks and Security](../research/wireless.md), a central tenet of a
 sustainable economy in Hawaii, made essential by its geographical
 isolation. Our work focuses on creating NextG wireless systems with
 enhanced communication, novel sensing, attack resiliency and energy
