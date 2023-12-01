@@ -28,11 +28,11 @@ dissemination opportunities in addition to courses. Trainees can also
 expect to be matched with our industry partners, both in Hawaii and
 on the mainland.
 
-Typically, trainees will receive a direct fellowship (~$34K/year) and
+A subset of trainees will receive a NRT fellowship (~$34K/year) and
 have the tuition paid by the program for one or two years, and will
 then be funded as GAs for the rest of their degree period. Direct
-fellowships are limited to US persons (citizens/permanent residents),
-others may be supported by other funding sources.
+fellowships are limited to US persons (citizens/permanent residents).
+Other trainees will be supported by other funding sources.
 
 For more details of our program, please visit [the About page](../about.md).
 
@@ -40,13 +40,17 @@ For more details of our program, please visit [the About page](../about.md).
 
 Our NRT program hosts trainees funded by direct fellowships as well as other sources. To be a trainee, you need to
 - be in good academic standings;
-- be committed to the training and education programs designed by the NRT faculty;
+- commit to the training and education program designed by the NRT faculty;
 - more importantly, be passionate about data science and AI!
 
-Direct fellowships require **U.S. citizenship or permanent residency** per NSF
-regulations. DACA persons, please contact us for your eligibility. Those who
-are not eligible for direct fellowships may be supported by other means, please **contact [the NRT faculty](../people/leadership-team.md) when you apply.
-
+Direct fellowships require **U.S. citizenship or permanent residency**
+per NSF regulations. DACA persons, please contact us for your
+eligibility. Those who are not eligible for direct fellowships may be
+supported by other means, please **contact [the NRT
+faculty](../people/leadership-team.md) when you apply. Please note
+that commiting to the training program includes a template for certain
+courses, including setting time for research and collaboration. Talk
+with the NRT faculty to find out more details.
 
 ## How to apply?
 
