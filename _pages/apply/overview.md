@@ -8,16 +8,16 @@ title: "Apply: Overview"
 UHM DESCARTES is a interdisciplinary program at the University of
 Hawaii (UH) at Manoa, currently funded by a 3 million dollar grant
 from the National Science Foundation.  Students will participate in a
-research that cut across different traditional departmental
+research and training model that cuts across traditional departmental
 boundaries: including engineering, computer science, business,
 economics, medicine, and more.  Concurrently, students will undergo
 rigorous training in **data science and artificial intelligence
 (AI)**. Our research thrusts in areas of priority to Hawaii:
 decarbonization, healthcare and communication, dictate a wealth of
 convergent, timely opportunities and challenges that modern data
-science and AI can address. Our trainees will be cognizant of
-not just technical details of data science and AI, but also address
-how it can be properly harnessed towards policy and societal goals.
+science and AI can address. Our trainees will be cognizant of not just
+technical details of data science and AI, but also address how it can
+be properly harnessed towards policy and societal goals.
 
 We welcome both Masters and PhD students to be NRT trainees. Trainees
 will typically be coadvised by multiple faculty (usually different
@@ -48,7 +48,7 @@ per NSF regulations. DACA persons, please contact us for your
 eligibility. Those who are not eligible for direct fellowships may be
 supported by other means, please **contact [the NRT
 faculty](../people/leadership-team.md) when you apply. Please note
-that commiting to the training program includes a template for certain
+that commiting to the training program includes a template for taking
 courses, including setting time for research and collaboration. Talk
 with the NRT faculty to find out more details.
 
