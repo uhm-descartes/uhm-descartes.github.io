@@ -14,11 +14,11 @@ in AI and data science. An unique aspect of our work in these areas is
 the presence of _dynamic data, often incomplete_, from distributed
 sources.
 
-We therefore advance fundamental research in online, real-time
-learning, distributed and federated learning setups, as well as
-principled ways to synthesize domain expertise. This fundamental
-research is used to juxtapose engineering and AI in the context of
-economic and social considerations in
+We therefore advance [fundamental research](./fundamental.md) in
+online, real-time learning, distributed and federated learning setups,
+as well as principled ways to synthesize domain expertise. This
+fundamental research is used to juxtapose engineering and AI in the
+context of economic and social considerations in
 
 * [Decarbonization](https://uhm-descartes.github.io/research/decarbonization/), focusing on the energy and transportation sectors,
 particularly relevant to Hawaii with its high penetration of
