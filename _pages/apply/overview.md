@@ -5,7 +5,16 @@ title: "Apply: Overview"
 
 ## Why NRT?
 
-UHM Descartes is a multi-disciplinary National Science Foundation Research Traineeship (NRT) program at the University of Hawaii (UH) at Manoa. The NRT trainees will have great opportunities to participate an unique graduate program and conduct cross-disciplinary research. The trainees can also be matched to internships at our partners. At the end of the program, the trainees will master the essential skills in **data science and artificial intelligence (AI)**, and work on **cutting-edge research projects** from a variety of disciplines (engineering, computer science, social science, business, and medicine).
+UHM Descartes is a interdisciplinary National Science Foundation
+Research Traineeship (NRT) program at the University of Hawaii (UH) at
+Manoa. The NRT trainees will have great opportunities to participate
+an unique graduate program and conduct cross-disciplinary
+research. The trainees can also be matched to internships at our
+partners. At the end of the program, the trainees will master the
+essential skills in **data science and artificial intelligence (AI)**,
+and work on **cutting-edge research projects** from a variety of
+disciplines (engineering, computer science, social science, business,
+and medicine).
 
 If eligible, the traineess may also receive a **generous stipend (~$34K per year) and have the tuition paid by the program for up to two years**.
 

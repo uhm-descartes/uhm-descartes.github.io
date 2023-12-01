@@ -4,3 +4,5 @@ _site
 Gemfile.lock
 .idea
 .history
+_pages/training/data-science.md~
+*.md~
