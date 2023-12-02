@@ -1,18 +1,15 @@
 ---
 permalink: /research/healthcare/
 title: "Research: Health Care"
----
 feature_row:
-  - image_path: /assets/images/ecg.jpeg
+  - image_path: /assets/images/ecg.jpg
     alt: "ecgimage"
     title: "Disease diagnosis with ECG"
     excerpt: "Descartes detects heart disease such as Kawasaki disease from ECG."
-  - image_path: /assets/images/COVID19DataLake.jpg
+  - image_path: /assets/images/COVID19DataLake.png
     alt: "COVID19 Data Lake"
     title: "COVID19 Data Lake"
     excerpt: "Descartes analyzes COVID19 data."
-
-
 ---
 
 
@@ -25,4 +22,3 @@ feature_row:
 
 
 {% include feature_row %}
-
