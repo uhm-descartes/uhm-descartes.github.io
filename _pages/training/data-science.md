@@ -9,7 +9,7 @@ excerpt: >
     Interdisciplinary pathways to applied data science addressing critical challenges of climate change, health epidemics, data security, and societal injustice with data, facts, and truth.
 ---
 
-Data Science training is motivated by national and Hawai‘i needs and
+DESCARTES Data Science training is motivated by national and Hawai‘i needs and
 the increasing diversity of careers for graduate students across
 various disciplines, including engineering, social sciences and
 computer science. Students conducting research in data science from
@@ -22,8 +22,8 @@ mathematical and quantitative approaches and understanding of
 engineering problems.
 
 To accommodate students from different backgrounds and train them for
-the diverse careers in data science, students will obtain a T-shaped
-background with breadth and depth in data science. Students from an
+the diverse careers in data science, students will obtain a [T-shaped
+background](https://en.wikipedia.org/wiki/T-shaped_skills) with breadth and depth in data science. Students from an
 engineering, social science, or computer science background and will
 obtain breadth through taking core courses outside their disciplines
 and through a finer-grained approach to course structures through
@@ -35,7 +35,7 @@ prepare them for their research.
 
 ## Multidisciplinary Data Science Education and Training
 The program’s main objective is to develop a convergent education and research program to train students for industry
-and academic careers. The program will have students engaged in a novel education program to obtain a broad,
+and academic careers. Students are engaged in a novel education program to obtain a broad,
 engaged, and enhanced series of learning experiences:
 
 - NRT students have access to the training module framework where the pedagogical focus shifts from the coarse granularity of
