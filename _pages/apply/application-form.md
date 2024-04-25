@@ -1,5 +1,5 @@
 ---
-permalink: /apply/application-form/
+permalink: /apply/sign-up-form/
 title: "Apply: Information Session Sign-Up"
 ---
 
