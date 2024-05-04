@@ -57,7 +57,7 @@ internships, outreach, mentoring activities, and giving public presentations tha
 Engineering to Economics to Business to Mathematics/ Statistics to Natural Sciences, with different backgrounds
 and expectations with AI, Data Science, and Machine Learning. A weekend orientation program at the beginning
 of the school year will train new NRT students about our curriculum approach using modules and the Knowledge
-Map. The trainng will be by returning NRT students, faculty, and industry constituents. Featured with the orientation
+Map. The training will be by returning NRT students, faculty, and industry constituents. Featured with the orientation
 program there will be a focused one week course on Data Science and Machine Learning basics for students who are
 completely new to the area or want a refresher course. This will include illustrations of Machine Learning applications
 in Engineering. The class will be coordinated by an NRT investigator, but taught by returning NRT students.
