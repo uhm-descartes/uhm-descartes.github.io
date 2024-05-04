@@ -15,5 +15,5 @@ Our [advisory board](./advisory-board.md) provides oversight and guidance to the
 
 Our [gallery of NRT participants](http://descartes.manoa.hawaii.edu/nrt-portfolios/) highlights portfolios of our NRT community members:
 <div class="container mt-4">
-    <iframe src="http://descartes.manoa.hawaii.edu/nrt-portfolios/" style="width:100%; height:500px;" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://descartes.manoa.hawaii.edu/nrt-portfolios/" style="width:100%; height:500px;" frameborder="0" allowfullscreen></iframe>
 </div>
