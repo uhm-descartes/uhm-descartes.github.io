@@ -1,6 +1,6 @@
 ---
 permalink: /apply/overview/
-title: "Apply: Overview"
+title: "Overview"
 ---
 
 ## Why NRT?
