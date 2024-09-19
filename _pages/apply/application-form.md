@@ -1,6 +1,6 @@
 ---
-permalink: /apply/sign-up-form/
-title: "Apply: Information Session Sign-Up"
+permalink: /apply/application-form/
+title: "Apply: Link to Application Form"
 ---
 
 To apply, please fill out [this Google Form](https://forms.gle/D37NfAoUqhFayUse7).
