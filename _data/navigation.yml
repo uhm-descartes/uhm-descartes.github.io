@@ -41,8 +41,6 @@ docs:
         url: /apply/overview/
       - title: "Application Form"
         url: "/apply/application-form/"
-      - title: "FAQ"
-        url: /apply/faq/
   - title: People
     children:
       - title: "Overview"
