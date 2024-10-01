@@ -1,7 +1,11 @@
 ---
 permalink: /training/overview/
-title: "Training: Overview"
+title: "Overview of NRT Training"
 ---
+
+<figure style="text-align: center;">
+  <img src="/assets/images/NRT_program_overview.png" alt="NRT Program Overview" width="1000">
+</figure>
 
 The UHM DESCARTES traineeship model is a novel attempt to incorporate
 convergent research and a interdisciplinary focus to data science and
@@ -17,6 +21,3 @@ or other concentrations. A systematic collaboration model among faculty,
 combined with our novel module-based courses that tailors instruction
 to students allows us to synergistically use the different perspectives
 for a truly interdisciplinary experience, both in research and teaching.
-
-
-
