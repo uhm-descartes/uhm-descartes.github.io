@@ -2,6 +2,11 @@
 permalink: /about/
 title: "About the UHM Descartes project"
 ---
+
+<figure style="text-align: center;">
+  <img src="/assets/images/NRT_program_overview.png" alt="NRT Program Overview" width="1000">
+</figure>
+    
 This is a time of extraordinary technological progress, particularly in data science and  artificial intelligence. However, economic and other challenges, including the COVID-19 pandemic, have delayed the benefits of this progress for significant sections of the population. In Hawaii, progress in data science has the potential to address critical needs in power, transportation, healthcare and communications. But to benefit the population at large, technological progress must take economic, business and social factors into consideration. 
 
 UHM Descartes is a National Science Foundation Research Traineeship (NRT) award to the University of Hawaii at Manoa. It will develop an innovative graduate program that brings together engineering, computer science, social science, business and medicine to harness the transformative power of data science. This cross-disciplinary program anticipates training a new generation of 61 graduate students, including 41 funded trainees. The program incorporates novel mechanisms such as tailored course modules to better prepare the trainees with the unique skills needed for bringing about an inclusive data revolution and equips them with a broader perspective on the interplay between areas traditionally treated disparately in the a STEM graduate curriculum.
