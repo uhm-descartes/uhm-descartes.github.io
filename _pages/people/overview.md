@@ -3,6 +3,10 @@ permalink: /people/overview/
 title: "People: Overview"
 ---
 
+<figure style="text-align: center;">
+  <img src="/assets/images/NRT_group_photo_2024_summer.png" alt="Group Photo Summer 2024" width="1000">
+</figure>
+
 Project Descartes is comprised of a diverse and overlapping group of stakeholders. 
 
 Our [leadership team](./leadership-team.md) includes the principal investigators and cooperating faculty who set the direction for the research and training opportunities provided to our students.
