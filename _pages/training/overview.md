@@ -4,7 +4,7 @@ title: "Overview of NRT Training"
 ---
 
 <figure style="text-align: center;">
-  <img src="/assets/images/NRT_program_overview.png" alt="NRT Program Overview" width="1000">
+  <img src="/assets/images/NRT_5_pillars_of_engagement.png" alt="Five Pillars of Engagement in NRT" width="1000">
 </figure>
 
 The UHM DESCARTES traineeship model is a novel attempt to incorporate
