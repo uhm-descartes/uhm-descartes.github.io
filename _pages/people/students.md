@@ -7,22 +7,22 @@ We are currently soliciting applications for our second cohort of student traine
 
 ## The Inaugural Cohort (Fall 2024)
 
-[Junheng Chen](https://philipmjohnson.org)
+Junheng Chen
 
-[Parisa Emkani](https://philipmjohnson.org)
+Parisa Emkani
 
-[Andrea Jans](https://philipmjohnson.org)
+Andrea Jans
 
-[Branden Hing](https://nori523.wixsite.com/my-site)
+Branden Hing
 
-[Christopher Manloloyo](https://philipmjohnson.org)
+Christopher Manloloyo
 
-[Loc Lam Nguyen](https://philipmjohnson.org)
+Loc Lam Nguyen
 
-[Isaiah Nichols-Floyd](https://shidler.hawaii.edu/itm/directory/daniel-port)
+Isaiah Nichols-Floyd
 
-[Mohammad Zaeri](https://philipmjohnson.org)
+Mohammad Zaeri
 
-[Honggen Zhang](https://ee.hawaii.edu/faculty/profile?usr=63)
+Honggen Zhang
 
-[Yixin Zhang](https://www.junezhang.net/)
+Yixin Zhang
