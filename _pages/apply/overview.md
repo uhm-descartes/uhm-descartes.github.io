@@ -46,7 +46,7 @@ Our NRT program hosts trainees funded by direct fellowships as well as other sou
 Direct fellowships require **U.S. citizenship or permanent residency**
 per NSF regulations. DACA persons, please contact us for your
 eligibility. Those who are not eligible for direct fellowships may be
-supported by other means, please **contact [the NRT
+supported by other means, please contact [the NRT
 faculty](../people/leadership-team.md) when you apply. Please note
 that commiting to the training program includes a template for taking
 courses, including setting time for research and collaboration. Talk
@@ -55,10 +55,10 @@ with the NRT faculty to find out more details.
 ## How to apply?
 
 - **Step 1.** Please fill out [the Application Form](https://forms.gle/D37NfAoUqhFayUse7). In the application form, you will be asked to
-    - update your CV;
+    - upload your CV;
     - identify research areas of your interests (please see [the Research page](../research/overview.md) for more details);
     - indicate whether you are eligible for the direct fellowship;
-    - update your undergraduate and graduate (if any) transcripts.
+    - upload your undergraduate and graduate (if any) transcripts.
 - **Step 2.** Please have at least two referees to send the reference letter to uhmnrt@hawaii.edu.
 - **Step 3.** You need to enroll in a graduate program at UH Manoa to participate in our NRT program. If you are not a graduate student yet, contact any of the
 [NRT faculty](../people/leadership-team.md) to coordinate your application to your department of choice in UH Manoa. Please refer to the [Graduate Division Application website](https://manoa.hawaii.edu/graduate/how-to-apply/) for instructions on how to apply to UH Manoa.
