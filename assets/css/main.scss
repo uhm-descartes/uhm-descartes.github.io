@@ -1,5 +1,5 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+/* Only the main Sass file needs front matter (the dashes are enough) */
 search: false
 ---
 
@@ -10,23 +10,39 @@ $primary-color: #386f55;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-# define the two-column class for displaying profile pictures and descriptions
+/* define the two-column class for displaying profile pictures and descriptions */
 .two-column {
   display: flex;
-  flex-wrap: wrap; /* Allows wrapping of columns for smaller screens */
-  align-items: center;
-  gap: 20px; /* Adds spacing between columns */
+  align-items: flex-start;  /* Aligns items at the top of the flex container */
+  gap: 20px;            /* Space between the image and text */
 }
 
-.column {
-  flex: 1;
-  padding: 10px;
-  box-sizing: border-box; /* Ensures padding is included in width calculations */
+.image-column {
+  flex: 0.2;
+  max-width: 200px;     /* Limit the image column width */
 }
 
-/* Make columns stack vertically on smaller screens */
-@media (max-width: 768px) {
-  .two-column {
-    flex-direction: column;
-  }
+.text-column {
+  flex: 0.8;
+  margin: 0;
+}
+
+.social-icons {
+  display: flex;          /* Arrange icons horizontally */
+  gap: 15px;              /* Space between each icon */
+  padding-top: 15px;      /* Adds some space above the social icons */
+}
+
+.icon {
+  text-decoration: none;      /* Remove underline from links */
+  width: 30px;                /* Set a fixed width for the box */
+  height: 30px;               /* Set a fixed height for the box */
+  display: flex;
+  justify-content: center;     /* Center the icon horizontally */
+  align-items: center;         /* Center the icon vertically */
+}
+
+.icon:hover {
+  background-color: hsl(211, 75%, 89%); /* Set the desired background color on hover */
+  text-decoration: none !important;      /* Remove underline on hover */
 }
