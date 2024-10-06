@@ -11,7 +11,33 @@ Junheng Chen
 
 Parisa Emkani
 
-Andrea Jans
+---
+
+<div class="two-column">
+
+  <div class="column image-column">
+    <img src="/assets/images/profile-photos/Andrea_Jans.png" alt="Profile picture" style="max-width: 100%; width: 200px; height: auto;">
+  </div>
+
+  <div class="column text-column">
+    <strong>Andrea Jans</strong>, Master student<br>
+    Department of Information and Computer Science, UH Mānoa<br>
+    <strong>Research Topics:</strong> Artificial Intelligence<br>
+
+    <div class="social-icons">
+      <a href="https://awjans.github.io/NRTechfolio/" target="_blank" class="icon">
+        <i class="fas fa-home"></i>
+      </a>
+      <a href="https://www.linkedin.com/in/andreawjans/" target="_blank" class="icon">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </div>
+
+  </div>
+
+</div>
+
+---
 
 Branden Hing
 
