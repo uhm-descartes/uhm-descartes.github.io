@@ -9,3 +9,24 @@ $primary-color: #386f55;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+# define the two-column class for displaying profile pictures and descriptions
+.two-column {
+  display: flex;
+  flex-wrap: wrap; /* Allows wrapping of columns for smaller screens */
+  align-items: center;
+  gap: 20px; /* Adds spacing between columns */
+}
+
+.column {
+  flex: 1;
+  padding: 10px;
+  box-sizing: border-box; /* Ensures padding is included in width calculations */
+}
+
+/* Make columns stack vertically on smaller screens */
+@media (max-width: 768px) {
+  .two-column {
+    flex-direction: column;
+  }
+}
