@@ -9,7 +9,21 @@ We are currently soliciting applications for our second cohort of student traine
 
 Junheng Chen
 
-Parisa Emkani
+---
+
+<div class="two-column">
+
+  <div class="column image-column">
+    <img src="/assets/images/profile-photos/Parisa.jpg" alt="Profile picture" style="max-width: 100%; width: 200px; height: auto;">
+  </div>
+
+  <div class="column text-column">
+    <strong>Parisa Emkani</strong>, PhD student<br>
+    Department of Information and Computer Science, UH Mānoa<br>
+    <strong>Research Topics:</strong> Information Systems, DevOps, Machine Learning, Artificial Intelligence, Software Assurance<br>
+  </div>
+
+</div>
 
 ---
 
@@ -52,7 +66,7 @@ Christopher Manloloyo
   </div>
 
   <div class="column text-column">
-    <strong>Loc Lam Nguyen</strong>, Ph. D. student<br>
+    <strong>Loc Lam Nguyen</strong>, PhD student<br>
     Shidler College of Business, UH Mānoa<br>
     <strong>Research Topics:</strong> Climate Change, AI Adoption, AI Diagnostics<br>
 
