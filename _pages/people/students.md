@@ -94,4 +94,18 @@ Mohammad Zaeri
 
 Honggen Zhang
 
-Yixin Zhang
+---
+
+<div class="two-column">
+
+  <div class="column image-column">
+    <img src="/assets/images/profile-photos/Yixin_Zhang.jpg" alt="Profile picture" style="max-width: 100%; width: 200px; height: auto;">
+  </div>
+
+  <div class="column text-column">
+    <strong>Yixin Zhang</strong>, PhD student<br>
+    Department of Electrical and Computer Engineering, UH Mānoa<br>
+    <strong>Research Topics:</strong> <br>
+  </div>
+
+</div>
