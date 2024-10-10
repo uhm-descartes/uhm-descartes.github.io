@@ -105,7 +105,7 @@ Honggen Zhang
   <div class="column text-column">
     <strong>Yixin Zhang</strong>, PhD student<br>
     Department of Electrical and Computer Engineering, UH Mānoa<br>
-    <strong>Research Topics:</strong> <br>
+    <strong>Research Topics:</strong> Weather Model, Deep Learning, Transformer<br>
   </div>
 
 </div>
