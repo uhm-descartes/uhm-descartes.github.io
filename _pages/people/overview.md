@@ -1,10 +1,10 @@
 ---
 permalink: /people/overview/
-title: "People: Overview"
+title: "Overview"
 ---
 
 <figure style="text-align: center;">
-  <img src="/assets/images/NRT_group_photo_2024_summer.png" alt="Group Photo Summer 2024" width="1000">
+  <img src="/assets/images/NRT-group-photo-summer-2024.jpg" alt="Group Photo Summer 2024" width="900">
 </figure>
 
 Project Descartes is comprised of a diverse and overlapping group of stakeholders. 
@@ -18,6 +18,8 @@ Our [community partners](./community-partners.md) provide project ideas and inte
 Our [advisory board](./advisory-board.md) provides oversight and guidance to the leadership team and helps ensure that our directions align with workforce needs and the best interests of our students. 
 
 Our [gallery of NRT participants](http://descartes.manoa.hawaii.edu/nrt-portfolios/) highlights portfolios of our NRT community members:
+<!--
 <div class="container mt-4">
     <iframe src="https://descartes.manoa.hawaii.edu/nrt-portfolios/" style="width:100%; height:500px;" frameborder="0" allowfullscreen></iframe>
 </div>
+-->
