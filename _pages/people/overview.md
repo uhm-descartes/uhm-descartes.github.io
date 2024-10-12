@@ -17,7 +17,8 @@ Our [community partners](./community-partners.md) provide project ideas and inte
 
 Our [advisory board](./advisory-board.md) provides oversight and guidance to the leadership team and helps ensure that our directions align with workforce needs and the best interests of our students. 
 
-Our [gallery of NRT participants](http://descartes.manoa.hawaii.edu/nrt-portfolios/) highlights portfolios of our NRT community members:
+Our [gallery of NRT participants](http://descartes.manoa.hawaii.edu/nrt-portfolios/) highlights portfolios of our NRT community members.
+
 <!--
 <div class="container mt-4">
     <iframe src="https://descartes.manoa.hawaii.edu/nrt-portfolios/" style="width:100%; height:500px;" frameborder="0" allowfullscreen></iframe>
