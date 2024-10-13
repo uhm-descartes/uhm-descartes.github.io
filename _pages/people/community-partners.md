@@ -1,6 +1,6 @@
 ---
 permalink: /people/community-partners/
-title: "People: Community Partners"
+title: "Community Partners"
 ---
 
 We are currently reaching out to community organizations to support Project Descartes.

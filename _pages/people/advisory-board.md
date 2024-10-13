@@ -1,6 +1,6 @@
 ---
 permalink: /people/advisory-board/
-title: "People: Advisory Board"
+title: "Advisory Board"
 ---
 
 We are currently in the process of forming the Project Descartes Advisory Board.
