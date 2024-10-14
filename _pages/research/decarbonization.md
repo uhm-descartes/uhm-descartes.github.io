@@ -1,6 +1,6 @@
 ---
 permalink: /research/decarbonization/
-title: "Research: Decarbonization"
+title: "Decarbonization"
 
 excerpt: >
 

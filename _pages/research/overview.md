@@ -1,6 +1,6 @@
 ---
 permalink: /research/overview/
-title: "Research: Overview"
+title: "Overview"
 sidebar:
   nav: "docs"
 ---

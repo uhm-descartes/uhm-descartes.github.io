@@ -1,6 +1,6 @@
 ---
 permalink: /research/wireless/
-title: "Research: Wireless Systems"
+title: "Wireless Systems"
 ---
 
 The research training in communications, networks, and security areas focues on creating NextG wireless systems with enhanced communication performance, novel sensing functionalities, strong attack resiliency, and high energy efficiency, for uses in Augmented, Virtual or eXtended Reality (AR/VR/XR), autonomous driving, massive interactive real-time applications, advanced industrial, manufacturing, and telehealth. Specifically, we design wireless systems and algorithms to control or explore the wireless propagation characters, thus improving signal quality, achieving ubiquitous, low-power sensing, and preventing or reducing attack vectors, such as jamming and eavesdropping.

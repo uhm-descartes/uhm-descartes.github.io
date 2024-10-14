@@ -1,6 +1,6 @@
 ---
 permalink: /research/fundamental/
-title: "Research: Fundamental Research"
+title: "Fundamental Research"
 ---
 
 We propose novel takes on __online and distributed learning__ with

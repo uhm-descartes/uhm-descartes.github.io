@@ -2,12 +2,15 @@
 permalink: /training/data-science/
 title: "Training in Data Science"
 published: true
+---
+
+<!--
 header:
   # overlay_color: "#5e616c"
   overlay_color: "#386f55"
 excerpt: >
     Interdisciplinary pathways to applied data science addressing critical challenges of climate change, health epidemics, data security, and societal injustice with data, facts, and truth.
----
+-->
 
 <figure style="text-align: center;">
   <img src="/assets/images/NRT_core_competencies.png" alt="Core Competencies of NRT Trainees" width="1000">

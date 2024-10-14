@@ -1,6 +1,6 @@
 ---
 permalink: /research/healthcare/
-title: "Research: Health Care"
+title: "Health Care"
 feature_row:
   - image_path: /assets/images/ecg.jpg
     alt: "ecgimage"
