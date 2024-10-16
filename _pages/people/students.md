@@ -53,7 +53,22 @@ Junheng Chen
 
 ---
 
-Branden Hing
+<div class="two-column">
+
+  <div class="column image-column">
+    <img src="/assets/images/profile-photos/BrandenHing_Headshot.jpg" alt="Profile picture" style="max-width: 100%; width: 200px; height: auto;">
+  </div>
+
+  <div class="column text-column">
+    <strong>Branden Hing</strong>, Master student<br>
+    Department of Economics, UH Mānoa<br>
+    <strong>Research Topics:</strong> Decarbonization, Renewable energy, Microgrids, Electricity pricing<br>
+
+  </div>
+
+</div>
+
+---
 
 Christopher Manloloyo
 
