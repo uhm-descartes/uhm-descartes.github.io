@@ -7,7 +7,19 @@ We are currently soliciting applications for our second cohort of student traine
 
 ## The Inaugural Cohort (Fall 2024)
 
-Junheng Chen
+<div class="two-column">
+
+  <div class="column image-column">
+    <img src="/assets/images/profile-photos/junheng_chen.png" alt="Profile picture" style="max-width: 100%; width: 200px; height: auto;">
+  </div>
+
+  <div class="column text-column">
+    <strong>Junheng Chen</strong>, Master student<br>
+    Department of Electrical and Computer Engineering, UH Mānoa<br>
+    <strong>Research Topics:</strong> Ultrasound-based elastography methods for diagnosis/therapy, AI in ultrasound imaging<br>
+  </div>
+
+</div>
 
 ---
 
