@@ -58,7 +58,6 @@ with the NRT faculty to find out more details.
     - upload your CV;
     - identify research areas of your interests (please see [the Research page](../research/overview.md) for more details);
     - indicate whether you are eligible for the direct fellowship;
-    - upload your undergraduate and graduate (if any) transcripts.
 - **Step 2.** Please have at least two referees to send the reference letter to uhmnrt@hawaii.edu.
 - **Step 3.** You need to enroll in a graduate program at UH Manoa to participate in our NRT program. If you are not a graduate student yet, contact any of the
 [NRT faculty](../people/leadership-team.md) to coordinate your application to your department of choice in UH Manoa. Please refer to the [Graduate Division Application website](https://manoa.hawaii.edu/graduate/how-to-apply/) for instructions on how to apply to UH Manoa.
