@@ -48,7 +48,7 @@ policies to the right groups using a combination of tools we have
 developed, as well as behavioral explorations in the transportation
 sector to reduce greenhouse emissions.  Hawaii is already a leading
 state in clean energy integration, and we expect our work to provide
-insights on how to enhance equitable and inclusive clean energy
+insights on how to enhance clean energy
 transitions in the nation and beyond.
 
 * [Healthcare](https://uhm-descartes.github.io/research/healthcare), particularly disease detection from ECGs and epidemics modeling, leveraging
