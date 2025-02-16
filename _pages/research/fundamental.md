@@ -4,7 +4,7 @@ title: "Fundamental Research"
 ---
 
 We propose novel takes on __online and distributed learning__ with
-applications to __decarbonization__, __healthcare__ and
+applications to __power grids__, __transportation__, __healthcare__ and
 __communications__. This convergent research program hews together
 engineering, computer science, social science and medicine, and is
 dictated by pressing needs of Hawaii as well as challenging problems
@@ -35,9 +35,8 @@ learning best practices.
 This fundamental research is used to juxtapose engineering and AI in
 the context of economic and social considerations in
 
-* [Decarbonization](https://uhm-descartes.github.io/research/decarbonization/), focusing on the energy and transportation sectors,
-particularly relevant to Hawaii with its high penetration of
-renewables and associated challenges. Building on UH Manoa research,
+* [Decarbonization](https://uhm-descartes.github.io/research/decarbonization/), particularly focusing on the smart energy and transportation sectors.
+Hawaii has one of the highest electricity rates in the country, and its energy status is fragile because of its geographical isolation. Yet, it has very high solar potential, showing a technically challenging, but reliable route towards energy independence. Building on UH Manoa research,
 we take advantage of collaborations with local stakeholders and
 utilities for granular and high-frequency electricity usage and
 transportation data; and the UHM campus, which has come to be a
@@ -46,15 +45,14 @@ our online learning framework to produce adaptable, faster response
 machine learning predictors in real systems. We investigate targeting
 policies to the right groups using a combination of tools we have
 developed, as well as behavioral explorations in the transportation
-sector to reduce greenhouse emissions.  Hawaii is already a leading
-state in clean energy integration, and we expect our work to provide
-insights on how to enhance clean energy
-transitions in the nation and beyond.
+sector, particularly with EVs, to improve integration with the power grid and also reducing emissions. Hawaii is already a leading
+state in integrating decentralized power generation, and we expect our work to provide
+insights on how to enhance new energy technologies in the nation and beyond.
 
 * [Healthcare](https://uhm-descartes.github.io/research/healthcare), particularly disease detection from ECGs and epidemics modeling, leveraging
 perhaps the largest pediatric ECG dataset (collected and curated by
 one of the PIs).  Native Hawaiians and Pacific Islanders are affected
-by heart diseases at a higher rate, and the unique geography of Hawaii
+by heart diseases at a higher rate, and the unique isolated geography of Hawaii
 meant that pandemic dynamics, such as the spread of COVID-19 differed
 from how diseases would spread on the mainland. Here again we combine
 domain knowledge and incomplete, possibly biased measurements within
