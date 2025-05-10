@@ -11,4 +11,4 @@ author: London Thompson
 
 <span style="display: block; font-size: 0.95em; color: #555; margin-bottom: 1em;"><em>By {{ page.author }} — {{ page.date | date: "%B %d, %Y" }}</em></span>
 
-Our first summer retreat and open house will be May 16 (Friday)! Mark your calendar, and come to learn more about the exciting works we are doing!
+Our first summer retreat and open house will be May 16 (Friday)! Mark your calendar and come to learn more about the exciting works we are doing!
