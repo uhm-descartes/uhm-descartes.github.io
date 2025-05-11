@@ -15,10 +15,8 @@ Today’s faculty meeting reminded us how data science can be a tool for justice
 
 We had the pleasure of welcoming Dr. Treena S. Becker, Assistant Research Professor who shared her emerging research: Using Machine Learning to Predict Features Within the Substance Use Disorder Treatment Continuum of Care that Increase the Likelihood of Positive Treatment Outcomes.
 
-Dr. Becker’s work is rooted in improving substance use disorder (SUD) outcomes for Native Hawaiian and Pacific Islander (NHPI) communities in Hawai‘i—especially those experiencing homelessness or involved in the criminal justice system.
-
 Her team is applying AI and Machine Learning, specifically Random Forest models, to uncover the most effective and cost-efficient treatment strategies, aftercare services, and environmental factors (like housing and employment) that support recovery and reduce relapse.
 
 She also introduced opportunities for DESCARTES trainees to collaborate on this transformative project, engaging in real-world data analysis across TEDS, N-SSATS, and ASUS datasets—working at the intersection of technology, health equity, and social impact.
 
-Mahalo, Dr. Becker, for showing us what research with purpose truly looks like.
+Mahalo, Dr. Becker, for sharing your research with us.
