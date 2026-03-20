@@ -6,7 +6,7 @@ header:
   # overlay_color: "#5e616c"
   overlay_color: "#386f55"
 excerpt: >
-  This NSF-sponsored project provides an innovative graduate program that brings together engineering, computer science, social science, business and medicine to harness the power of data science. 
+  This NSF-sponsored project provides an innovative graduate program that brings together engineering, computer science, social science, business and medicine to harness the power of AI and data science. 
 feature_row:
   - image_path: /assets/images/NRT-faculty-summer-2024.jpg
     alt: "Research"
