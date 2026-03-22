@@ -6,7 +6,7 @@ title: "Leadership Team"
 ## Principal Investigators
 
 <div class="two-column">
-
+  
   <div class="column image-column">
     <img src="/assets/images/profile-photos/Prasad.jpg" alt="Profile picture" style="clip-path: inset(0% 0% 10% 0%); max-width: 100%; width: 200px; height: auto;">
   </div>
@@ -15,15 +15,15 @@ title: "Leadership Team"
     <strong>Narayana Prasad Santhanam (Principal Investigator)</strong>, Professor<br>
     Department of Electrical and Computer Engineering, College of Engineering, UH Mānoa<br>
     <strong>Research Topics:</strong> Statistical Learning<br>
-
+    
     <div class="social-icons">
       <a href="https://ee.hawaii.edu/faculty/profile?usr=63" target="_blank" class="icon">
         <i class="fas fa-home"></i>
       </a>
     </div>
-
+    
   </div>
-
+  
 </div>
 
 ---
@@ -95,29 +95,6 @@ title: "Leadership Team"
 
 </div>
 
----
-
-<div class="two-column">
-
-  <div class="column image-column">
-    <img src="/assets/images/profile-photos/pmj-headshot-200x200.jpg" alt="Profile picture" style="clip-path: inset(0% 0% 0% 0%); max-width: 100%; width: 200px; height: auto;">
-  </div>
-
-  <div class="column text-column">
-    <strong>Philip Johnson (Co-Principal Investigator)</strong>, Professor<br>
-    Department of Information and Computer Sciences, College of Natural Sciences, UH Mānoa<br>
-    <strong>Research Topics:</strong> Climate Change, Food Resiliency, Software Engineering, Educational Technology<br>
-
-    <div class="social-icons">
-      <a href="https://philipmjohnson.org" target="_blank" class="icon">
-        <i class="fas fa-home"></i>
-      </a>
-    </div>
-
-  </div>
-
-</div>
-
 
 ## Program Coordinator
 
@@ -128,10 +105,9 @@ title: "Leadership Team"
   </div>
 
   <div class="column text-column">
-    <strong>London Thompson</strong>, Ed.D<br>
+    <strong>Amy Doyel</strong><br>
     DESCARTES, NSF AI Research and Traineeship, College of Engineering, UH Mānoa<br>
-    <strong>Research Topics:</strong> Equity and Access in STEM Education , Curriculum Development, Teacher Education, and Educational Technology<br>
-
+    
     <div class="social-icons">
       <a href="https://www.linkedin.com/in/blisstunes?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" class="icon">
         <i class="fab fa-linkedin"></i>
@@ -299,3 +275,31 @@ title: "Leadership Team"
   </div>
 
 </div>
+
+<!--
+  Alumni.
+
+  ---
+
+<div class="two-column">
+
+  <div class="column image-column">
+    <img src="/assets/images/profile-photos/pmj-headshot-200x200.jpg" alt="Profile picture" style="clip-path: inset(0% 0% 0% 0%); max-width: 100%; width: 200px; height: auto;">
+  </div>
+
+  <div class="column text-column">
+    <strong>Philip Johnson (Co-Principal Investigator)</strong>, Professor<br>
+    Department of Information and Computer Sciences, College of Natural Sciences, UH Mānoa<br>
+    <strong>Research Topics:</strong> Climate Change, Food Resiliency, Software Engineering, Educational Technology<br>
+
+    <div class="social-icons">
+      <a href="https://philipmjohnson.org" target="_blank" class="icon">
+        <i class="fas fa-home"></i>
+      </a>
+    </div>
+
+  </div>
+
+</div>
+
+-->
