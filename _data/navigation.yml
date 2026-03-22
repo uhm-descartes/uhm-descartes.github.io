@@ -33,8 +33,6 @@ docs:
         url: /training/overview/
       - title: "Data Science"
         url: /training/data-science/
-      - title: "Modular Curriculum"
-        url: /training/modular-curriculum/
   - title: Apply
     children:
       - title: "Overview"
