@@ -200,7 +200,7 @@ title: "Leadership Team"
 <div class="two-column">
 
   <div class="column image-column">
-    <img src="/assets/images/profile-photos/Daniel-Shirley-web.jpg" alt="Profile picture" style="max-width: 100%; width: 200px; height: auto;">
+    <img src="/assets/images/profile-photos/Daisy_Green.jpg" alt="Profile picture" style="max-width: 100%; width: 200px; height: auto;">
   </div>
 
   <div class="column text-column">
@@ -210,6 +210,29 @@ title: "Leadership Team"
 
     <div class="social-icons">
       <a href="https://ee.hawaii.edu/faculty/profile?usr=127" target="_blank" class="icon">
+        <i class="fas fa-home"></i>
+      </a>
+    </div>
+
+  </div>
+
+</div>
+
+---
+
+<div class="two-column">
+
+  <div class="column image-column">
+    <img src="/assets/images/profile-photos/igor.jpg" alt="Profile picture" style="max-width: 100%; width: 200px; height: auto;">
+  </div>
+
+  <div class="column text-column">
+    <strong>Igor Molybog</strong>, Assistant Professor<br>
+    Department of Electrical and Computer Engineering, College of Engineering, UH Mānoa<br>
+    <strong>Research Topics:</strong> large language models (LLM)<br>
+
+    <div class="social-icons">
+      <a href="https://igormolybog.github.io/" target="_blank" class="icon">
         <i class="fas fa-home"></i>
       </a>
     </div>
@@ -262,6 +285,29 @@ title: "Leadership Team"
 
     <div class="social-icons">
       <a href="https://www2.hawaii.edu/~yaozheng/" target="_blank" class="icon">
+        <i class="fas fa-home"></i>
+      </a>
+    </div>
+
+  </div>
+
+</div>
+
+---
+
+<div class="two-column">
+
+  <div class="column image-column">
+    <img src="/assets/images/profile-photos/liuwan.jpg" alt="Profile picture" style="max-width: 100%; width: 200px; height: auto;">
+  </div>
+
+  <div class="column text-column">
+    <strong>Liuwan Zhu</strong>, Assistant Professor<br>
+    Department of Electrical and Computer Engineering, College of Engineering, UH Mānoa<br>
+    <strong>Research Topics:</strong> cybersecurity and AI<br>
+
+    <div class="social-icons">
+      <a href="https://liuwan95.github.io/" target="_blank" class="icon">
         <i class="fas fa-home"></i>
       </a>
     </div>
