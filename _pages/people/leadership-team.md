@@ -204,19 +204,13 @@ title: "Leadership Team"
   </div>
 
   <div class="column text-column">
-    <strong>Shirley Daniel</strong>, Professor Emerita<br>
-    Department of Accounting, Shidler College of Business, UH Mānoa<br>
-    <strong>Research Topics:</strong> Comparison of Manufacturing Practices Auditing in the United States and Japan<br>
+    <strong>Daisy Green</strong>, Assistant Professor<br>
+    Department of Electrical and Computer Engineering, College of Engineering, UH Mānoa<br>
+    <strong>Research Topics:</strong> signal processing, estimation, machine learning and control for condition monitoring and energy management<br>
 
     <div class="social-icons">
-      <a href="https://shidler.hawaii.edu/soa/directory/shirley-daniel" target="_blank" class="icon">
+      <a href="https://ee.hawaii.edu/faculty/profile?usr=127" target="_blank" class="icon">
         <i class="fas fa-home"></i>
-      </a>
-      <a href="https://scholar.google.com/citations?hl=en&user=l8p5EVEAAAAJ" target="_blank" class="icon">
-        <i class="fas fa-graduation-cap"></i>
-      </a>
-      <a href="https://www.linkedin.com/in/shirley-daniel-1241283/" target="_blank" class="icon">
-        <i class="fab fa-linkedin"></i>
       </a>
     </div>
 
@@ -301,5 +295,36 @@ title: "Leadership Team"
   </div>
 
 </div>
+
+---
+
+<div class="two-column">
+
+  <div class="column image-column">
+    <img src="/assets/images/profile-photos/Daniel-Shirley-web.jpg" alt="Profile picture" style="max-width: 100%; width: 200px; height: auto;">
+  </div>
+
+  <div class="column text-column">
+    <strong>Shirley Daniel</strong>, Professor Emerita<br>
+    Department of Accounting, Shidler College of Business, UH Mānoa<br>
+    <strong>Research Topics:</strong> Comparison of Manufacturing Practices Auditing in the United States and Japan<br>
+
+    <div class="social-icons">
+      <a href="https://shidler.hawaii.edu/soa/directory/shirley-daniel" target="_blank" class="icon">
+        <i class="fas fa-home"></i>
+      </a>
+      <a href="https://scholar.google.com/citations?hl=en&user=l8p5EVEAAAAJ" target="_blank" class="icon">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+      <a href="https://www.linkedin.com/in/shirley-daniel-1241283/" target="_blank" class="icon">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </div>
+
+  </div>
+
+</div>
+
+---
 
 -->
