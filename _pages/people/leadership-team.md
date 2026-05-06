@@ -109,9 +109,6 @@ title: "Leadership Team"
     DESCARTES, NSF AI Research and Traineeship, College of Engineering, UH Mānoa<br>
     
     <div class="social-icons">
-      <a href="https://www.linkedin.com/in/blisstunes?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" class="icon">
-        <i class="fab fa-linkedin"></i>
-      </a>
       <a href="mailto:nrtadmin@hawaii.edu" class="icon" target="_blank">
         <i class="fas fa-envelope"></i>
       </a>
