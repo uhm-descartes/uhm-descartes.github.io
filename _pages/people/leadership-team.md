@@ -101,7 +101,7 @@ title: "Leadership Team"
 <div class="two-column">
 
   <div class="column image-column">
-    <img src="/assets/images/profile-photos/London.jpg" alt="Profile picture" style="clip-path: inset(0% 0% 0% 0%); max-width: 100%; width: 200px; height: auto;">
+    <img src="/assets/images/profile-photos/Amy-Doyel.jpg" alt="Profile picture" style="clip-path: inset(0% 0% 0% 0%); max-width: 100%; width: 200px; height: auto;">
   </div>
 
   <div class="column text-column">
